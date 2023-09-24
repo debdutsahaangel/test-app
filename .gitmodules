@@ -1,6 +1,6 @@
 [submodule "android"]
 	path = android
-	url = ./android
+	url = https://github.com/debdutsahaangel/test-app-android.git
 [submodule "reactNative"]
 	path = reactNative
-	url = ./reactNative
+	url = https://github.com/debdutsahaangel/test-app-react-native
